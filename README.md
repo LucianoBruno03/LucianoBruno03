@@ -3,11 +3,11 @@
 
 - 💼 Actualmente estoy trabajando en [GoodApps](https://goodapps.com.ar/)
 
-- 🌱 Actualmente estoy aprendiendo **Android Studio, Kotlin, React, C#,
+- 🌱 Actualmente estoy aprendiendo Android Studio, Kotlin, React, C#,
 
-- 🤝 Estoy buscando ayuda con **el desarrollo de mi carrera profecional
+- 🤝 Estoy buscando ayuda con el desarrollo de mi carrera profecional
 
-- 💬 Preguntame sobre **HTML, CSS, BOOTSTRAP, Javascript, C++, Arduino, .Net, SQL Server, MVC, Node.js,
+- 💬 Preguntame sobre HTML, CSS, BOOTSTRAP, Javascript, C++, Arduino, .Net, SQL Server, MVC, Node.js,
 
 - 📫 Cómo contactarme luciano.03.bruno@gmail.com
 
